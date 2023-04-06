@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-My book on Amazon : https://amzn.to/3nXYNtB![image](https://user-images.githubusercontent.com/63362791/230504875-5ac9a13b-ccdb-4511-84db-eeae4503b49e.png)
+My book on Amazon : https://amzn.to/3nXYNtB
 
-My video game : https://pierreturpin2005.wixsite.com/heavenchoice![image](https://user-images.githubusercontent.com/63362791/230504908-6b9f9da8-42d6-42ac-8d30-1d3500ba9688.png)
+My video game : https://pierreturpin2005.wixsite.com/heavenchoice
 
 <!--
 **pierr-tp/pierr-tp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
